@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4fe633c-c29d-41f7-882d-86227ccf3d11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685608113868</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="readme">
+      <created>1685608835964</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685608835964</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,10 +135,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="111" key="CommitChangelistDialog2" timestamp="1685608113399">
+    <state x="598" y="111" key="CommitChangelistDialog2" timestamp="1685608835331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1685608113399" />
+    <state x="598" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1685608835331" />
     <state x="793" y="393" key="Github.ShareDialog" timestamp="1685605285565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -157,10 +163,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1685605231928" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1685608605968">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1685608842476">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1685608605968" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1685608842476" />
     <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1685604518549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
