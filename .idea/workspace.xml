@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4fe633c-c29d-41f7-882d-86227ccf3d11" name="Default Changelist" comment="readme">
-      <change beforePath="$PROJECT_DIR$/.idea/samt_v02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/samt_v02.iml" afterDir="false" />
+    <list default="true" id="f4fe633c-c29d-41f7-882d-86227ccf3d11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,18 +52,34 @@
       <option name="project" value="LOCAL" />
       <updated>1685604282442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1685605504181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685605504181</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test01">
+      <created>1685605558105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685605558105</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+    <MESSAGE value="test" />
+    <MESSAGE value="test01" />
+    <option name="LAST_COMMIT_MESSAGE" value="test01" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="111" key="CommitChangelistDialog2" timestamp="1685605503756">
+    <state x="598" y="111" key="CommitChangelistDialog2" timestamp="1685605557699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1685605503756" />
+    <state x="598" y="111" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1685605557699" />
     <state x="793" y="393" key="Github.ShareDialog" timestamp="1685605285565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -71,6 +88,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1685605231928" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1685605626215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1685605626215" />
     <state x="752" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1685604518549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
